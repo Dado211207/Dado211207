@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">Full project archive</title>
+  <desc id="desc">Twelve projects across AI, software, client websites, digital products and operational tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#03101a"/>
+      <stop offset="1" stop-color="#082433"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#37d6c8"/>
+      <stop offset="1" stop-color="#5ba9ff"/>
+    </linearGradient>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#7bd8ff" stroke-opacity=".04"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="190" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="190" rx="20" fill="url(#grid)"/>
+  <g transform="translate(28 28)" font-family="'Segoe UI',Arial,sans-serif">
+    <text x="0" y="18" fill="#7898ac" font-size="11" font-weight="700" letter-spacing="2.8">PROJECT DATABASE</text>
+    <text x="0" y="72" fill="#f3fbff" font-size="42" font-weight="800" letter-spacing="-1">12 BUILDS</text>
+    <text x="0" y="103" fill="#9cece5" font-size="15" font-weight="650">Public work, private prototypes and active systems.</text>
+    <path d="M0 126H346" stroke="url(#accent)" stroke-width="3"/>
+  </g>
+  <g transform="translate(430 34)" font-family="'Segoe UI',Arial,sans-serif">
+    <path d="M0 60H714" stroke="#234456" stroke-width="2"/>
+    <g transform="translate(0)">
+      <circle cx="16" cy="60" r="11" fill="#071723" stroke="#37d6c8" stroke-width="3"/>
+      <circle cx="16" cy="60" r="4" fill="#37d6c8"/>
+      <text x="0" y="22" fill="#f4fbff" font-size="16" font-weight="800">AI + WINDOWS</text>
+      <text x="0" y="103" fill="#7898ac" font-size="11">JARVIS · NVR TOOLING</text>
+    </g>
+    <g transform="translate(190)">
+      <circle cx="16" cy="60" r="11" fill="#071723" stroke="#5ba9ff" stroke-width="3"/>
+      <circle cx="16" cy="60" r="4" fill="#5ba9ff"/>
+      <text x="0" y="22" fill="#f4fbff" font-size="16" font-weight="800">CLIENT WEB</text>
+      <text x="0" y="103" fill="#7898ac" font-size="11">BILINGUAL · RESPONSIVE</text>
+    </g>
+    <g transform="translate(376)">
+      <circle cx="16" cy="60" r="11" fill="#071723" stroke="#72c6e8" stroke-width="3"/>
+      <circle cx="16" cy="60" r="4" fill="#72c6e8"/>
+      <text x="0" y="22" fill="#f4fbff" font-size="16" font-weight="800">PRODUCTS</text>
+      <text x="0" y="103" fill="#7898ac" font-size="11">LOVEFRAME · DONESI.MI</text>
+    </g>
+    <g transform="translate(558)">
+      <circle cx="16" cy="60" r="11" fill="#071723" stroke="#9cece5" stroke-width="3"/>
+      <circle cx="16" cy="60" r="4" fill="#9cece5"/>
+      <text x="0" y="22" fill="#f4fbff" font-size="16" font-weight="800">DEV TOOLS</text>
+      <text x="0" y="103" fill="#7898ac" font-size="11">WORKFLOWS · QA</text>
+    </g>
+  </g>
+  <path d="M24 24h26M24 24v26M1176 24h-26M1176 24v26M24 166h26M24 166v-26M1176 166h-26M1176 166v-26" stroke="#4e96ae" stroke-width="2" opacity=".55"/>
+</svg>
