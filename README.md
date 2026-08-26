@@ -27,40 +27,29 @@ I also support diver training, equipment servicing and IT operations at **Boka D
 
 ## `> flagship --open`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 · JARVIS</h3>
-      <p><strong>Local-first Windows AI assistant</strong></p>
-      <p>Voice workflows, memory, privacy controls, approval-based actions and a protected coding workspace — designed to run on the user's own machine.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>Windows</code> <code>WebView2</code> <code>AI</code></p>
-      <p><a href="https://github.com/Dado211207/jarvis-windows-ai-assistant"><strong>VIEW SOURCE →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 · Boka Diving Academy</h3>
-      <p><strong>Bilingual academy and conservation platform</strong></p>
-      <p>Diving courses, marine-conservation activities, articles and contact information inside a responsive Montenegrin/English experience.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>GSAP</code> <code>Netlify</code></p>
-      <p><a href="https://bokadive.com"><strong>OPEN LIVE SITE →</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 · dragandoncic.com</h3>
-      <p><strong>Bilingual professional portfolio</strong></p>
-      <p>IT experience, software work, case studies and CV delivery with responsive layouts, localized routes, accessibility and release-quality testing.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Playwright</code></p>
-      <p><a href="https://dragandoncic.com"><strong>OPEN PORTFOLIO →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 · TwinsLand</h3>
-      <p><strong>Client website in development</strong></p>
-      <p>A bilingual website for Twins Land, a children's playroom and cafe in Mega Mall, built around cinematic motion and verified business content.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>GSAP</code> <code>Bilingual</code></p>
-      <p><a href="https://twinsland.netlify.app"><strong>OPEN PREVIEW →</strong></a></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Dado211207/jarvis-windows-ai-assistant">
+    <img src="./assets/card-jarvis.svg" width="100%" alt="JARVIS — local-first Windows AI assistant" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://bokadive.com">
+    <img src="./assets/card-boka.svg" width="100%" alt="Boka Diving Academy — bilingual diving and conservation platform" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://dragandoncic.com">
+    <img src="./assets/card-portfolio.svg" width="100%" alt="dragandoncic.com — bilingual professional portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://twinsland.netlify.app">
+    <img src="./assets/card-twinsland.svg" width="100%" alt="TwinsLand — cinematic bilingual client website" />
+  </a>
+</p>
 
 ## `> projects --all`
 
