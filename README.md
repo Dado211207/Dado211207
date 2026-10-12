@@ -1,4 +1,7 @@
 <p align="center">
+
+> [Aktuelni projektni handoff](docs/PROJECT_HANDOFF.md) — presjek 12. oktobra 2026.
+
   <img src="./assets/profile-header.svg" width="100%" alt="Dragan Doncic — IT Manager Assistant and Full-Stack Software Developer in Montenegro" />
 </p>
 
