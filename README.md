@@ -42,7 +42,6 @@ I also support diver training, equipment servicing and IT operations at **Boka D
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://bokadive.com">
     <img src="./assets/card-boka.svg" width="100%" alt="Boka Diving Academy — bilingual diving and conservation platform" />
