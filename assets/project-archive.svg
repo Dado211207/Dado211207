@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
   <title id="title">Full project archive</title>
-  <desc id="desc">Twelve projects across AI, software, client websites, digital products and operational tools.</desc>
+  <desc id="desc">Thirteen projects across AI, software, client websites, digital products and operational tools.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#03101a"/>
@@ -18,7 +18,7 @@
   <rect width="1200" height="190" rx="20" fill="url(#grid)"/>
   <g transform="translate(28 28)" font-family="'Segoe UI',Arial,sans-serif">
     <text x="0" y="18" fill="#7898ac" font-size="11" font-weight="700" letter-spacing="2.8">PROJECT DATABASE</text>
-    <text x="0" y="72" fill="#f3fbff" font-size="42" font-weight="800" letter-spacing="-1">12 BUILDS</text>
+    <text x="0" y="72" fill="#f3fbff" font-size="42" font-weight="800" letter-spacing="-1">13 BUILDS</text>
     <text x="0" y="103" fill="#9cece5" font-size="15" font-weight="650">Public work, private prototypes and active systems.</text>
     <path d="M0 126H346" stroke="url(#accent)" stroke-width="3"/>
   </g>
