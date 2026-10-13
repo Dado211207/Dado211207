@@ -64,15 +64,15 @@ I also support diver training, equipment servicing and IT operations at **Boka D
 ## `> projects --all`
 
 <p align="center">
-  <img src="./assets/project-archive.svg" width="100%" alt="Project archive containing twelve software, web and operational technology projects" />
+  <img src="./assets/project-archive.svg" width="100%" alt="Project archive containing thirteen software, web and operational technology projects" />
 </p>
 
 | # | Project | State | What it is | Access |
 |:--:|:--|:--|:--|:--|
 | 01 | **JARVIS** | **BUILDING** | Local-first Windows AI assistant with voice, memory, approvals and coding tools. | [Source](https://github.com/Dado211207/jarvis-windows-ai-assistant) |
 | 02 | **FireNexa** | **PILOT** | Fire and rescue response platform for authorized DVD Tivat and SZS members. | [Source](https://github.com/Dado211207/dvd-tivat-app) |
-| 04 | **Boka Diving Academy** | **LIVE** | Bilingual diving-training and marine-conservation platform. | [Website](https://bokadive.com) |
-| 03 | **dragandoncic.com** | **LIVE** | Bilingual portfolio, case studies and downloadable CV. | [Website](https://dragandoncic.com) |
+| 03 | **Boka Diving Academy** | **LIVE** | Bilingual diving-training and marine-conservation platform. | [Website](https://bokadive.com) |
+| 04 | **dragandoncic.com** | **LIVE** | Bilingual portfolio, case studies and downloadable CV. | [Website](https://dragandoncic.com) |
 | 05 | **TwinsLand** | **CLIENT BUILD** | Bilingual children's playroom and cafe website with cinematic motion. | [Preview](https://twinsland.netlify.app) |
 | 06 | **LoveFrame** | **DEMO LIVE** | Private, mobile-first digital gift experiences shared by link or QR code. | [Demo](https://loveframe-experience.netlify.app) |
 | 07 | **Kotor Bay Whispers** | **LIVE** | Private boat-tour website designed for clear mobile discovery and contact. | [Website](https://kotor-bay-whispers.netlify.app/) |
