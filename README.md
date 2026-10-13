@@ -37,6 +37,12 @@ I also support diver training, equipment servicing and IT operations at **Boka D
 </p>
 
 <p align="center">
+  <a href="https://github.com/Dado211207/dvd-tivat-app">
+    <img src="./assets/card-firenexa.svg" width="100%" alt="FireNexa — fire and rescue response platform in operational pilot" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://bokadive.com">
     <img src="./assets/card-boka.svg" width="100%" alt="Boka Diving Academy — bilingual diving and conservation platform" />
   </a>
@@ -57,23 +63,24 @@ I also support diver training, equipment servicing and IT operations at **Boka D
 ## `> projects --all`
 
 <p align="center">
-  <img src="./assets/project-archive.svg" width="100%" alt="Project archive containing twelve software, web and operational technology projects" />
+  <img src="./assets/project-archive.svg" width="100%" alt="Project archive containing thirteen software, web and operational technology projects" />
 </p>
 
 | # | Project | State | What it is | Access |
 |:--:|:--|:--|:--|:--|
 | 01 | **JARVIS** | **BUILDING** | Local-first Windows AI assistant with voice, memory, approvals and coding tools. | [Source](https://github.com/Dado211207/jarvis-windows-ai-assistant) |
-| 02 | **Boka Diving Academy** | **LIVE** | Bilingual diving-training and marine-conservation platform. | [Website](https://bokadive.com) |
-| 03 | **dragandoncic.com** | **LIVE** | Bilingual portfolio, case studies and downloadable CV. | [Website](https://dragandoncic.com) |
-| 04 | **TwinsLand** | **CLIENT BUILD** | Bilingual children's playroom and cafe website with cinematic motion. | [Preview](https://twinsland.netlify.app) |
-| 05 | **LoveFrame** | **DEMO LIVE** | Private, mobile-first digital gift experiences shared by link or QR code. | [Demo](https://loveframe-experience.netlify.app) |
-| 06 | **Kotor Bay Whispers** | **LIVE** | Private boat-tour website designed for clear mobile discovery and contact. | [Website](https://kotor-bay-whispers.netlify.app/) |
-| 07 | **Caritas Kotorske biskupije** | **LIVE** | Organization website work focused on structure and manageable content. | [Website](https://caritaskb.com) |
-| 08 | **Hrvatska nastava Crna Gora** | **LIVE** | Classes, activities and updates for the school and parents' association. | [Website](https://www.hrvatska-nastava-crnagora.com) |
-| 09 | **NVR Camera Organizer** | **PRIVATE PROTOTYPE** | Dashboard for organizing NVR cameras, locations and system settings. | Private build |
-| 10 | **MILICA MICA** | **CLIENT PROTOTYPE** | Responsive restaurant presentation, menu, gallery and location experience. | Private build |
-| 11 | **Donesi.Mi** | **PRODUCT PROTOTYPE** | Delivery-service landing experience with ordering flow, services and pricing. | Private build |
-| 12 | **Dado Claude Toolkit** | **BUILDING** | Reusable Claude Code workflows, project skills and QA automation. | [Repository](https://github.com/Dado211207/dado-claude-toolkit) |
+| 02 | **FireNexa** | **PILOT** | Fire and rescue response platform for authorized DVD Tivat and SZS members. | [Source](https://github.com/Dado211207/dvd-tivat-app) |
+| 03 | **Boka Diving Academy** | **LIVE** | Bilingual diving-training and marine-conservation platform. | [Website](https://bokadive.com) |
+| 04 | **dragandoncic.com** | **LIVE** | Bilingual portfolio, case studies and downloadable CV. | [Website](https://dragandoncic.com) |
+| 05 | **TwinsLand** | **CLIENT BUILD** | Bilingual children's playroom and cafe website with cinematic motion. | [Preview](https://twinsland.netlify.app) |
+| 06 | **LoveFrame** | **DEMO LIVE** | Private, mobile-first digital gift experiences shared by link or QR code. | [Demo](https://loveframe-experience.netlify.app) |
+| 07 | **Kotor Bay Whispers** | **LIVE** | Private boat-tour website designed for clear mobile discovery and contact. | [Website](https://kotor-bay-whispers.netlify.app/) |
+| 08 | **Caritas Kotorske biskupije** | **LIVE** | Organization website work focused on structure and manageable content. | [Website](https://caritaskb.com) |
+| 09 | **Hrvatska nastava Crna Gora** | **LIVE** | Classes, activities and updates for the school and parents' association. | [Website](https://www.hrvatska-nastava-crnagora.com) |
+| 10 | **NVR Camera Organizer** | **PRIVATE PROTOTYPE** | Dashboard for organizing NVR cameras, locations and system settings. | Private build |
+| 11 | **MILICA MICA** | **CLIENT PROTOTYPE** | Responsive restaurant presentation, menu, gallery and location experience. | Private build |
+| 12 | **Donesi.Mi** | **PRODUCT PROTOTYPE** | Delivery-service landing experience with ordering flow, services and pricing. | Private build |
+| 13 | **Dado Claude Toolkit** | **BUILDING** | Reusable Claude Code workflows, project skills and QA automation. | [Repository](https://github.com/Dado211207/dado-claude-toolkit) |
 
 > Private repositories stay private. The archive shows the work without exposing source code, credentials, client data or private LoveFrame experiences.
 
@@ -109,6 +116,7 @@ I also support diver training, equipment servicing and IT operations at **Boka D
 
 ## `> current_mission`
 
+- **FireNexa:** running the operational pilot with DVD Tivat and SZS; store distribution follows pilot approval.
 - **JARVIS:** completing a dependable Windows release before moving to the mobile control layer.
 - **Hotel IT:** supporting users, endpoints, networks and guest-facing systems.
 - **Software delivery:** building bilingual web products with strong responsive, accessibility and release standards.

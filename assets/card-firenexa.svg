@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="title desc">
+  <title id="title">FireNexa — fire and rescue response platform</title>
+  <desc id="desc">Operational pilot for authorized DVD Tivat and SZS members, with call-outs, responses, attendance and incident records.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#031019"/><stop offset="1" stop-color="#102b3a"/></linearGradient>
+    <linearGradient id="a" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#ff985b"/><stop offset=".55" stop-color="#ffcf70"/><stop offset="1" stop-color="#37d6c8"/></linearGradient>
+    <pattern id="g" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#8bd9ff" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="900" height="220" rx="20" fill="url(#bg)"/><rect width="900" height="220" rx="20" fill="url(#g)"/>
+  <rect x="1" y="1" width="898" height="218" rx="19" fill="none" stroke="#3e5a66"/>
+  <g transform="translate(28 25)">
+    <rect width="154" height="170" rx="18" fill="#071b26" stroke="#72533f"/>
+    <circle cx="77" cy="72" r="48" fill="none" stroke="#385361" stroke-width="2"/>
+    <circle cx="77" cy="72" r="36" fill="none" stroke="#ff985b" stroke-width="2" stroke-dasharray="4 7" opacity=".85"/>
+    <path d="M78 35c4 17-12 21-13 36-1 10 5 17 13 17 11 0 19-10 17-22-1-8-6-13-7-21-5 6-8 9-10 15-2-10 3-17 0-25z" fill="url(#a)"/>
+    <path d="M78 61c3 7-5 10-5 16 0 4 2 7 6 7 5 0 8-5 7-10-1-3-3-5-4-8-2 2-3 4-4 7-1-5 1-8 0-12z" fill="#f3fbff" opacity=".92"/>
+    <text x="77" y="144" text-anchor="middle" fill="#9db3bd" font-family="Consolas,monospace" font-size="12" letter-spacing="2">RESPONSE-01</text>
+  </g>
+  <g transform="translate(210 29)" font-family="'Segoe UI',Arial,sans-serif">
+    <text x="0" y="16" fill="#9baeb8" font-size="12" font-weight="700" letter-spacing="3">OPERATIONS PLATFORM // 01</text>
+    <text x="0" y="69" fill="#f4fbff" font-size="46" font-weight="850" letter-spacing="-1">FIRENEXA</text>
+    <text x="0" y="101" fill="#ffd39b" font-size="19" font-weight="700">FIRE &amp; RESCUE RESPONSE PLATFORM</text>
+    <text x="0" y="133" fill="#a4b6c0" font-size="16">Call-outs · Responses · Attendance · Incident records</text>
+    <g transform="translate(0 151)" font-size="11" font-weight="750" letter-spacing=".8">
+      <rect width="82" height="27" rx="13.5" fill="#142b35" stroke="#74533d"/><text x="41" y="18" text-anchor="middle" fill="#ffd5ab">REACT</text>
+      <g transform="translate(92)"><rect width="106" height="27" rx="13.5" fill="#142b35" stroke="#74533d"/><text x="53" y="18" text-anchor="middle" fill="#ffd5ab">TYPESCRIPT</text></g>
+      <g transform="translate(208)"><rect width="92" height="27" rx="13.5" fill="#142b35" stroke="#426a70"/><text x="46" y="18" text-anchor="middle" fill="#b8f1ec">SUPABASE</text></g>
+    </g>
+  </g>
+  <g transform="translate(747 25)" font-family="'Segoe UI',Arial,sans-serif">
+    <rect width="125" height="30" rx="15" fill="#2a251f" stroke="#ff985b"/><circle cx="17" cy="15" r="4" fill="#ff985b"/><text x="69" y="20" text-anchor="middle" fill="#ffe0c2" font-size="11" font-weight="800" letter-spacing="1">PILOT</text>
+    <text x="125" y="169" text-anchor="end" fill="#ffd39b" font-size="12" font-weight="800" letter-spacing="1.2">VIEW SOURCE  →</text>
+  </g>
+</svg>
