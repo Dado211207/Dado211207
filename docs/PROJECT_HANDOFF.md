@@ -16,3 +16,15 @@ Prije dopune profila provjeri da je projekat javno predstavljiv, da link i opis 
 2. Za konkretan zadatak pročitaj navedene izvorne fajlove i provjeri odgovarajuće podatke sa vlasnikom; ne dopunjavaj činjenice nagađanjem.
 3. Pokreni relevantne provjere, pregledaj promjenu na telefonu i računaru kada dira UI, pa dokumentuj šta je stvarno objavljeno. Nikad ne upisuj lozinke, tokene, lične podatke ili sadržaj privatnih razgovora u Git.
 
+## Detaljni pregled — 21. oktobar 2026.
+
+**Izvor provjere:** `main` na `3d0c8e218b7b01364d418d58bf7bb7d84a389638`, `README.md` i otvoreni PR-ovi (nema ih u ovom presjeku). Repo je javna naslovna stranica profila, bez aplikacijskog builda ili korisničkih naloga.
+
+| Dio | Izvor i provjera |
+| --- | --- |
+| Vizuelni uvod | `README.md` i korišćeni SVG fajlovi u `assets/`; provjeriti izgled na GitHub mobilnom i desktop prikazu. |
+| Odabrani radovi | FireNexa, JARVIS, Boka Diving Academy i lični sajt; opise zasnivati na stvarnom objavljenom stanju svakog projekta. |
+| Linkovi | Otvoriti javni portfolio, CV, relevantne javne stranice i javno dostupne case studies; privatni repozitorijumi nijesu javni dokaz. |
+| Privatnost | Ne dodavati internu FireNexa operativu, testne naloge, privatne projekte, kontakte korisnika ili tajne. |
+
+**Provjera pri izmjeni:** uporediti svaku tvrdnju sa projektom; pregledati Markdown, alternativni tekst slika, linkove i mobilni prikaz. Ovaj pregled nije nova ručna provjera svih izlaznih linkova. Profilni bio i GitHub pinned repositories su zasebne postavke naloga i nijesu promijenjeni ovim handoffom. Sljedeći korak je održavati kratku javnu priču u README-u, a potpun privatni inventar u centralnom indeksu.
